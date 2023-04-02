@@ -1,2 +1,2 @@
-# hello_r
-This is my first repo for R programming course
+# This is from Github
+print("hello from github")
