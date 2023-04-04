@@ -1,4 +1,4 @@
 name="maria"
 course ="datascience"
 course_instructor="sana rasheed"
-print("this is my rief intro")
+print("this is my brief intro")
